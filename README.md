@@ -8,3 +8,9 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 ![GitHub Logo](/decompose_plastic.png)
 
 ![GitHub Logo](/seasonallyAdj.png)
+
+- Retail data
+
+![GitHub Logo](/X11 decomp_retail.png)
+
+![GitHub Logo](/seasonallyAdjretail.png)
