@@ -34,3 +34,8 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 ![GitHub Logo](/stlf_frecast_bricks.png)
 
 ![GitHub Logo](/residual_stfl_decomp_bricks.png)
+
+- Industry sales for printing and writing paper (in thousands of French francs): Jan 1963 – Dec 1972.
+
+![GitHub Logo](/stfl_writing.png)
+
