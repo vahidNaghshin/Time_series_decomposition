@@ -24,3 +24,13 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 ![GitHub Logo](/seasonal_cangas.png)
 
 ![GitHub Logo](/stl_decomp_cangas.png)
+
+- Australian quarterly clay brick production: 1956–1994.
+
+![GitHub Logo](/seasonallyAdj_bricks.png)
+
+![GitHub Logo](/brciks_stl_decomp..png)
+
+![GitHub Logo](/stlf_frecast_bricks.png)
+
+![GitHub Logo](/residual_stfl_decomp_bricks.png)
