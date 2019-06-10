@@ -39,3 +39,11 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 
 ![GitHub Logo](/stfl_writing.png)
 
+- Monthly sales for a souvenir shop on the wharf at a beach resort town in Queensland, Australia.
+
+![GitHub Logo](/fancy..png)
+
+![GitHub Logo](/stfl_forecasting_residual_fancy.png)
+
+![GitHub Logo](/stlf_fancy.png)
+
