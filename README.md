@@ -14,3 +14,13 @@ This is the solution to the exercises of chapter 5 of forcasting: prinsiples and
 ![GitHub Logo](/X11_decomp_retail.png)
 
 ![GitHub Logo](/seasonallyAdjretail.png)
+
+- Monthly Canadian gas production, billions of cubic metres, January 1960 - February 2005
+
+![GitHub Logo](/cangas.png)
+
+![GitHub Logo](/subseries_cangas.png)
+
+![GitHub Logo](/seasonal_cangas.png)
+
+![GitHub Logo](/stl_decomp_cangas.png)
